@@ -1,0 +1,11 @@
+id = "zed-hoon"
+name = "Hoon"
+version = "0.0.1"
+schema_version = 1
+authors = ["Matthew LeVan <matthew@coeli.network>"]
+description = "Hoon syntax highlighting for the Zed editor."
+repository = "https://github.com/matthew-levan/zed-hoon"
+
+[grammars.hoon]
+repository = "https://github.com/urbit-pilled/tree-sitter-hoon"
+commit = "a24c5a39d1d7e993a8bee913c8e8b6a652ca5ae8"
