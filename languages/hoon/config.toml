@@ -1,0 +1,4 @@
+name = "Hoon"
+grammar = "hoon"
+path_suffixes = ["hoon"]
+line_comments = [":: "]
